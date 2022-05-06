@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\SharpDevelop Projects\Practica 4 UNAJ\obj\Debug\Practica 4 UNAJ.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\SharpDevelop Projects\Practica 4 UNAJ\bin\Debug\Practica 4 UNAJ.exe.config
+C:\Users\Usuario\Documents\SharpDevelop Projects\Practica 4 UNAJ\bin\Debug\Practica 4 UNAJ.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\Practica 4 UNAJ\bin\Debug\Practica 4 UNAJ.pdb
+C:\Users\Usuario\Documents\SharpDevelop Projects\Practica 4 UNAJ\obj\Debug\Practica 4 UNAJ.exe
+C:\Users\Usuario\Documents\SharpDevelop Projects\Practica 4 UNAJ\obj\Debug\Practica 4 UNAJ.pdb
